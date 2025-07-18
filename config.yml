@@ -1,4 +1,5 @@
 languageCode:           "en"
+
 title:                  "Windster - Tailwind CSS Dashboard"
 baseURL:                "https://demo.themesberg.com/windster/"
 enableInlineShortcodes: true
